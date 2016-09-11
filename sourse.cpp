@@ -11,3 +11,7 @@ void mult(int a, int b) {
 	cout << c << endl;
 
 }
+void dif(int a, int b) {
+	int c = a / b;
+	cout << c << endl;
+}
