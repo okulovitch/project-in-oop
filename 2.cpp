@@ -6,3 +6,6 @@ void sum(int a, int b) {
 	cout << c << endl;
 
 }
+void main() {
+	sum(2, 3);
+}
